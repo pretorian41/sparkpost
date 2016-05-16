@@ -1,0 +1,2 @@
+parameters:
+    braem.spark_post.mailer.default.class: Braem\SparkpostMailerBundle\Services\Mailer
